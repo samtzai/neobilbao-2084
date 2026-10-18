@@ -1,0 +1,172 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{neobilbao2084}[2026/10/18 Estilo NeoBilbao 2084 - La Loteria Azul (XeLaTeX)]
+
+\RequirePackage{iftex}
+\RequireXeTeX
+
+% --- Base ---------------------------------------------------------------
+\RequirePackage{fontspec}
+\RequirePackage[spanish,es-tabla]{babel}
+\RequirePackage{microtype}
+\RequirePackage[a5paper,top=20mm,bottom=20mm,left=17mm,right=17mm,headheight=20pt]{geometry}
+\RequirePackage{graphicx}
+\RequirePackage[table]{xcolor}
+\RequirePackage{array}
+\RequirePackage{tabularx}
+\RequirePackage{booktabs}
+\RequirePackage{enumitem}
+\RequirePackage{titlesec}
+\RequirePackage{fancyhdr}
+\RequirePackage{tcolorbox}
+\tcbuselibrary{skins,breakable}
+
+% --- Fuentes (TeX Gyre) --------------------------------------------------
+\setmainfont{TeX Gyre Pagella}[Numbers=OldStyle]
+\setsansfont{TeX Gyre Heros}[Scale=MatchLowercase]
+\newfontfamily\industrialfont{TeX Gyre Adventor}[Scale=MatchUppercase]
+\newfontfamily\terminalfont{TeX Gyre Cursor}[Scale=MatchLowercase]
+
+% --- Paleta Noir 2084 ---------------------------------------------------
+\definecolor{UrdinLoteria}{HTML}{0A84FF}     % Azul eléctrico de la Lotería Azul
+\definecolor{BurdinUrdin}{HTML}{0088B4}      % Azul clásico de NeoBilbao
+\definecolor{OrekakRust}{HTML}{B84A1E}       % Óxido de La Margen
+\definecolor{CupulaGold}{HTML}{C49E35}       % Oro distante de la Cúpula
+\definecolor{CarbonDark}{HTML}{1A1F26}       % Asfalto húmedo y noche
+\definecolor{AcidSirimiri}{HTML}{4A7C2A}     % Lluvia ácida verdosa
+\definecolor{CrtGreen}{HTML}{10B981}         % Fósforo verde terminal
+\definecolor{NeonAmber}{HTML}{D97706}        % Ámbar de monitores CRT
+\definecolor{InkSoft}{HTML}{4B5358}          % Tinta suave para tablas y textos secundarios
+
+\colorlet{GoldDark}{CupulaGold!70!black}
+\colorlet{SteelLight}{CarbonDark!12!white}
+\definecolor{BoxRust}{HTML}{F8E9E2}
+\definecolor{BoxGold}{HTML}{F8F1DC}
+\definecolor{BoxGreen}{HTML}{E8F0E2}
+\definecolor{BoxBlue}{HTML}{E5F1FA}
+\definecolor{BoxGray}{HTML}{ECEFF1}
+
+\RequirePackage[hidelinks,unicode,pdfauthor={Samtzai},pdftitle={NeoBilbao 2084: La Lotería Azul}]{hyperref}
+
+% --- Idioma y formatos ---------------------------------------------------
+\renewcommand{\contentsname}{Índice}
+\renewcommand{\chaptername}{Capítulo}
+\renewcommand{\partname}{Parte}
+\renewcommand{\figurename}{Figura}
+
+\emergencystretch=2em
+
+\color{CarbonDark}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em plus 0.2em minus 0.1em}
+\setcounter{tocdepth}{1}
+
+\setlist{leftmargin=1.4em,itemsep=2pt,topsep=3pt,parsep=0pt}
+
+% --- Titulares ----------------------------------------------------------
+\titleformat{\chapter}[display]
+  {\raggedright\normalfont}
+  {\industrialfont\bfseries\small\color{UrdinLoteria}NB 2084 // \MakeUppercase{\chaptername}~\thechapter}
+  {4pt}
+  {\industrialfont\bfseries\LARGE\color{CarbonDark}}
+  [\vspace{4pt}{\color{OrekakRust}\titlerule[1.2pt]}]
+\titlespacing*{\chapter}{0pt}{0pt}{16pt}
+
+\titleformat{\section}{\industrialfont\bfseries\large\color{OrekakRust}\raggedright}{\thesection}{0.6em}{}
+\titlespacing*{\section}{0pt}{2.2ex plus .5ex minus .2ex}{1ex plus .2ex}
+\titleformat{\subsection}{\industrialfont\bfseries\normalsize\color{UrdinLoteria}\raggedright}{\thesubsection}{0.6em}{}
+\titlespacing*{\subsection}{0pt}{1.8ex plus .4ex minus .2ex}{.6ex plus .1ex}
+\titleformat{\subsubsection}{\industrialfont\bfseries\small\color{GoldDark}\raggedright}{\thesubsubsection}{0.6em}{}
+\titlespacing*{\subsubsection}{0pt}{1.4ex plus .3ex minus .2ex}{.4ex}
+
+\makeatletter
+\def\@part[#1]#2{%
+  \ifnum \c@secnumdepth >-2\relax
+    \refstepcounter{part}%
+    \addcontentsline{toc}{part}{\thepart\hspace{1em}#1}%
+  \else
+    \addcontentsline{toc}{part}{#1}%
+  \fi
+  {\parindent\z@ \centering \interlinepenalty\@M \normalfont
+    \vspace*{\fill}%
+    {\industrialfont\bfseries\large\color{OrekakRust}\MakeUppercase{\partname}~\thepart\par}%
+    \vskip 12\p@
+    {\industrialfont\bfseries\Huge\color{CarbonDark}#2\par}%
+    \vspace*{\fill}\par}%
+  \@endpart}
+\makeatother
+
+% --- Cabeceras y pies ---------------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyhead[L]{\industrialfont\bfseries\scriptsize\color{UrdinLoteria}NEOBILBAO 2084 // LA LOTERÍA AZUL}
+\fancyhead[R]{\terminalfont\scriptsize\color{OrekakRust}DOSSIER ZINA}
+\fancyfoot[L]{\industrialfont\scriptsize\color{CarbonDark}SISTEMA ZINA \textcolor{OrekakRust}{//} ARCHIVO 2084}
+\fancyfoot[R]{\industrialfont\bfseries\small\color{UrdinLoteria}\thepage}
+\renewcommand{\headrulewidth}{0.8pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{UrdinLoteria}\leaders\hrule height\headrulewidth\hfill\color{OrekakRust}\rule{16pt}{\headrulewidth}}}
+\renewcommand{\footrulewidth}{0.35pt}
+\renewcommand{\footrule}{\color{CarbonDark!35}\hrule width\headwidth height\footrulewidth}
+
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyfoot[L]{\industrialfont\scriptsize\color{CarbonDark}NEOBILBAO 2084 // LA LOTERÍA AZUL}%
+  \fancyfoot[R]{\industrialfont\bfseries\small\color{UrdinLoteria}\thepage}%
+  \renewcommand{\headrulewidth}{0pt}%
+  \renewcommand{\footrulewidth}{0.35pt}%
+  \renewcommand{\footrule}{\color{CarbonDark!35}\hrule width\headwidth height\footrulewidth}}
+
+% --- Macros de texto ----------------------------------------------------
+\newcommand{\etiqueta}[1]{\textcolor{AcidSirimiri}{\textsf{\bfseries[#1]}}}
+\newcommand{\lead}[1]{\textsf{\bfseries\textcolor{UrdinLoteria}{#1}}}
+\newcommand{\dire}[1]{\textsf{\bfseries\textcolor{OrekakRust}{#1}}}
+\newcommand{\cine}[1]{\textsf{\bfseries\textcolor{CupulaGold}{\MakeUppercase{#1}}}}
+\newcommand{\codigo}[1]{\textcolor{UrdinLoteria}{\terminalfont\small #1}}
+
+\newcommand{\neofigure}[2]{%
+  \begin{figure}[tbp]
+  \centering
+  \includegraphics[width=\linewidth]{#1}\par
+  \vspace{1mm}{\color{UrdinLoteria}\rule{0.22\linewidth}{0.8pt}}\par
+  \caption{#2}
+  \end{figure}}
+
+% --- Cajas tcolorbox ----------------------------------------------------
+\tcbset{
+  neo/.style={
+    enhanced, breakable,
+    arc=0.8mm, boxrule=0.7pt,
+    left=7pt, right=7pt, top=5pt, bottom=5pt,
+    before skip=8pt, after skip=8pt,
+    coltitle=white, fonttitle=\industrialfont\bfseries\small,
+    before title={\textcolor{CupulaGold}{//}\hspace{0.4em}},
+    before upper={\setlength{\parindent}{0pt}\setlength{\parskip}{0.4em plus 0.1em}\raggedright},
+    colupper=CarbonDark,
+  }
+}
+
+\newtcolorbox{CajaSecreto}{neo,
+  colframe=OrekakRust, colback=BoxRust, colbacktitle=OrekakRust,
+  boxrule=2pt, title={\MakeUppercase{Solo para ojos del Director}}}
+
+\newtcolorbox{CajaCinematica}[1]{neo,
+  colframe=UrdinLoteria, colback=CarbonDark, colbacktitle=UrdinLoteria,
+  colupper=SteelLight, title={\MakeUppercase{#1}}}
+
+\newtcolorbox{FichaEnemigo}[1]{neo,
+  colframe=CarbonDark, colback=BoxGray, colbacktitle=CarbonDark,
+  title={\MakeUppercase{#1}}}
+
+\newtcolorbox{FichaArquetipo}[1]{neo,
+  colframe=GoldDark, colback=BoxGold, colbacktitle=GoldDark,
+  title={\MakeUppercase{#1}}}
+
+\newtcolorbox{CajaEjemplo}[1]{neo,
+  colframe=AcidSirimiri, colback=BoxGreen, colbacktitle=AcidSirimiri,
+  title={\MakeUppercase{#1}}}
+
+\newtcolorbox{CajaRegla}[1]{neo,
+  colframe=UrdinLoteria, colback=BoxBlue, colbacktitle=UrdinLoteria,
+  title={\MakeUppercase{#1}}}
+
+\endinput

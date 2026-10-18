@@ -1,0 +1,168 @@
+NEOBILBAO // LA LOTERÍA AZUL
+ARCHIVO 2084 // DOSSIER DE CAMPAÑA PARA EL SISTEMA ZINA
+Módulo de precuela // Temática: Noir corporativo, falsa meritocracia y ciberpunk de los 90.
+
+--- PARTE I: EL ESPEJISMO DEL MÉRITO ---
+
+CAPÍTULO 1: INTRODUCCIÓN PARA LOS JUGADORES
+// SOLO PARA OJOS DEL DIRECTOR
+Nota para el Director: Lee este texto a tus jugadores. Establece un tono asfixiante, pero urbano. No están en los altos hornos; están en "La Margen", rodeados de asfalto, neón, burocracia y lluvia ácida.
+
+Lectura para la mesa:
+«El sirimiri en el Distrito 7 nunca limpia las calles; solo esparce el óxido y difumina los neones de las pantallas publicitarias sobre el asfalto. Bienvenidos a "La Margen", el anillo de clase media-baja de NeoBilbao. Aquí no sois esclavos de la fundición, sois algo peor: ciudadanos con esperanza.
+
+Vivís en micro-apartamentos cápsula, pagáis vuestros créditos de oxígeno a plazos y trabajáis como técnicos, oficinistas o celadores en un sistema que os exprime la vida hora a hora. Pero aguantáis. Todos en este barrio aguantan por culpa del Programa Azul de Excelencia Ciudadana.
+
+En las tascas oscuras y bajo los paraguas transparentes del tren mag-lev, todos hablan de lo mismo: si eres un ciudadano ejemplar, si sacas buenas notas en tus evaluaciones, la empresa te selecciona. Te dan un piso en la Cúpula Dorada. "El talento tiene su recompensa", dice el eslogan de Orekak-Corp.
+
+Hace seis meses, Ane Garate, una brillante ingeniera de vuestro bloque, ganó el Programa Azul. El barrio entero lo celebró. Hoy, su familia os ha citado de urgencia en un bar bajo las vías del tren. Ane ha vuelto. Físicamente está ilesa. Pero no deja de temblar, habla de sí misma en plural y tiene la mirada vacía de alguien que ha visto el infierno.
+
+Pedís un kalimotxo sintético mientras la lluvia golpea el cristal. Algo huele a podrido en la lotería de NeoBilbao, y vosotros estáis a punto de descubrir el porqué.»
+
+CAPÍTULO 2: LA VERDAD DE LA CAMPAÑA
+La Mentira Pública: La población cree que el Programa Azul es una criba para formar líderes.
+La Realidad: Orekak-Corp intenta construir un súper-ordenador biológico (Proyecto IZAR / ADUR-OS v1.0). El "Índice Azul" no mide el civismo; evalúa la latencia sináptica, la densidad del líquido cefalorraquídeo y la resistencia al trauma. La corporación secuestra a los adultos biológicamente compatibles para conectar sus cerebros en red.
+El Fracaso Inminente: Los jugadores irrumpirán en un experimento que colapsa en tiempo real. El cerebro adulto tiene demasiado ego. Al conectarlos, las mentes se rechazan violentamente, generando el "Evento de Resonancia Azul" (psicosis y fritura neuronal). La victoria de los jugadores al detener esto forzará a la corporación a archivar el proyecto hasta 2102.
+
+CAPÍTULO 3: FACCIONES Y AMENAZAS URBANAS
+En 2084, la violencia corporativa es sutil. No hay mechas pesados en las calles, hay control de la información.
+- Los Auditores ("Los Secretas"): Policía política de Orekak-Corp. Operan en gabardina, sin uniformes. Utilizan bloqueadores neuronales y amnésicos en aerosol. Su táctica es arrinconar en lugares públicos, sedar a las víctimas y hacer pasar el ataque por un coma etílico. Etiquetas: [Infiltrados], [No letal], [Clandestino].
+- Limpieza Sanitaria (Proto-Sorgin): Escuadrones en furgonetas blancas sin matrícula. Paramédicos con inyectores neumáticos de toxinas. Intervienen en los bajos fondos para "recoger la basura" de los experimentos fallidos. Etiquetas: [Rápidos], [Químicos], [Sin rastro].
+- Los Descartados: Ciudadanos brillantes expulsados del Proyecto IZAR porque sus cerebros rechazaron el puerto. Sobreviven en las ruinas (debajo de puentes, antiguas rías), sufriendo fugas de memoria y cantando canciones de cuna de otros sujetos.
+
+CAPÍTULO 4: LA TECNOLOGÍA EN 2084
+En NeoBilbao, la tecnología no es limpia ni inalámbrica; es pesada, ruidosa y opresiva.
+- Hardware obsoleto pero ubicuo: Abundan las pantallas de tubo de rayos catódicos (CRT) parpadeantes, disquetes de alta densidad, teclados mecánicos ruidosos y terminales de fósforo verde. El hackeo requiere cables gruesos.
+- Wetware precario: Los implantes neuronales no son estéticos. Los puertos de conexión dejan cicatrices severas, requieren cirugía invasiva (a menudo en el mercado negro) y supuran si no se mantienen con inmunosupresores carísimos.
+- Clima artificial y supervivencia: La lluvia ácida (sirimiri tóxico) corroe la ropa barata y la piel. Los paraguas de polímero transparente y las máscaras de filtración de aire baratas son artículos de primera necesidad para transitar La Margen.
+
+
+--- PARTE II: MOTOR ZINA 2084 Y ARQUETIPOS ---
+
+CAPÍTULO 5: REGLAS BÁSICAS (ADAPTACIÓN)
+El sistema utiliza las mismas reglas centrales que Zina 2102, adaptadas al entorno urbano:
+- Estadísticas emocionales (6): Enfadado, Asustado, Culpable, Afligido, Pacífico y ALEGRE. A diferencia del futuro oscuro, aquí "Alegre" es vital. Representa la esperanza, la camaradería en las tascas y la fuerza mental de la clase trabajadora para soportar la vida en La Margen sin romperse.
+- Estrés (Zama) y Auzolan: La Zama mide el colapso psicológico (límite 6). El Auzolan es la reserva compartida de apoyo vecinal para potenciar tiradas.
+- Etiquetas Urbanas: El Director usa [Atestado], [Neón Cegador], [Burocracia Infranqueable], y [Hacinamiento] para complicar las tiradas en la metrópolis.
+
+CAPÍTULO 6: CREACIÓN DE PERSONAJE EN 2084
+Tu Vínculo con el Mérito (Tu motor): ¿Qué te ata a la promesa del Programa Azul o a la tragedia que acaba de ocurrir con Ane? (Buscabas ganar la lotería para salvar a tu familia, la culpa de tu trabajo en Orekak te carcome, o simplemente Ane era tu amiga y quieres saber qué le han hecho).
+El "lujo" precario: Un pequeño objeto que demuestra que eres de clase media y te aferra a tu humanidad (un reloj analógico, un walkman de cintas, un buen paraguas que no se rompe con el ácido).
+Estadísticas emocionales: Repartes +2, +1, +1, 0, 0, y -1 entre Enfadado, Asustado, Culpable, Afligido, Pacífico y Alegre.
+
+LOS ARQUETIPOS:
+
+1. EL SABUESO DE DISTRITO (El Detective / Ex-Seguridad)
+Vistes una gabardina gastada y sabes que la justicia en NeoBilbao se compra por créditos. Conoces los trucos de los Auditores.
+Estadística recomendada: Pacífico o Enfadado.
+Movimiento Único — Conozco el Asfalto: Al usar la multitud o el caos urbano para Infiltrarte / Ocultarte, tira +Pacífico. Con 10+, pasas desapercibido y el Director te revela si un Auditor te seguía, permitiéndote emboscarlo. Con 7-9 pasas desapercibido pero te separas del grupo o pierdes algo.
+
+2. LA BIOHACKER DE LA MARGEN (La Técnica Punk)
+Okupas un Gaztetxe digital. Orekak-Corp no es un dios, es un sistema operativo con vulnerabilidades.
+Estadística recomendada: Culpable o Enfadado.
+Movimiento Único — Cacharrería Punk: Al hackear o puentear un terminal corporativo, tira +Culpable. Con 10+, sacas los datos y puedes freír el sistema borrando tu rastro o clonar la señal. Con 7-9, obtienes los datos, pero los Auditores rastrean tu distrito de origen.
+
+3. EL CELADOR DE GURUTZETA (El Sanitario Quemado)
+Trabajas turnos dobles en el hospital público. Tienes acceso a medicinas y demasiada empatía.
+Estadística recomendada: Afligido o Alegre.
+Movimiento Único — Triaje de Combate: Al tratar la Zama o heridas con suministros médicos robados en una situación límite, tira +Afligido. Con 10+, eliminas 2 de Zama al instante. Con 7-9, curas 1 de Zama, pero los agresivos estimulantes dejan al PJ [Tembloroso] o [Paranoico].
+
+4. EL BURÓCRATA ARREPENTIDO (El Oficinista)
+Procesabas tests del Índice Azul sabiendo que estaban amañados. La culpa te impide dormir.
+Estadística recomendada: Pacífico o Culpable.
+Movimiento Único — Sello de Goma: Al Manipular / Convencer a un empleado corporativo usando jerga burocrática aburrida, tira +Pacífico. Con 7+, asumen que eres uno de ellos y te dan acceso o información, aunque con 7-9 te exigirán que pierdas mucho tiempo valioso "rellenando los formularios correspondientes".
+
+5. EL FAMILIAR DEL "PREMIADO" (El Vínculo Íntimo)
+Tu familiar fue brillante, ganó la Lotería Azul, y te lo devolvieron con el cerebro destrozado cantando canciones de cuna de extraños. No tienes nada que perder.
+Estadística recomendada: Enfadado o Afligido.
+Movimiento Único — Ancla Emocional: Una vez por sesión, cuando tú o un aliado estéis a punto de sufrir un Colapso (Zama a 6), puedes gastar 1 punto de Auzolan y recordar brutalmente el motivo de vuestra lucha. El impacto emocional anula el colapso y reduce la Zama en 2 puntos inmediatamente.
+
+
+--- PARTE III: ESTRUCTURA NARRATIVA Y RECURSOS ---
+
+CAPÍTULO 7: FASES DE LA CAMPAÑA
+La campaña está diseñada en 4 actos, llevando a los personajes desde el asfalto mojado hasta la cumbre corporativa.
+
+FASE 1: EL DESPERTAR EN EL ASFALTO (La Investigación)
+- Arranque: La reunión en la tasca con Ane. Sus balbuceos crípticos y el descubrimiento físico de un enorme y tosco puerto neuronal clandestino injertado en su nuca. 
+- Conflicto: Los personajes deben descubrir a dónde llevaron a Ane. Necesitan acceder a archivos médicos (allanando una clínica periférica) o recuperar la caja negra del último transporte corporativo que pisó el barrio.
+- Obstáculos: Primera aparición de los "Auditores" ("Los Secretas"), quienes intentan acorralar a los PJs y sedar a la familia de Ane para borrar sus recuerdos.
+- Objetivo de Fase: Descubrir la farsa. Confirmar que el Programa Azul no otorga pisos de lujo, sino que secuestra a los ganadores, y descubrir el nombre en clave: "Proyecto IZAR".
+
+FASE 2: EL SUBSUELO Y LOS DESCARTADOS (El Descenso)
+- Entorno: Antiguas vías de tren abandonadas, túneles de alcantarillado y los restos sumergidos de la vieja Ría industrial de Bilbao, lejos del neón.
+- Interacción: Para entender la tecnología del puerto de Ane o buscar un acceso a la Cúpula, el grupo debe adentrarse en los dominios de los "Descartados", las piezas rotas de los primeros experimentos.
+- Conflicto: Sobrevivir a emboscadas de los escuadrones de "Limpieza Sanitaria" que bajan periódicamente en furgonetas blancas a purgar pruebas humanas.
+- Objetivo de Fase: Obtener tecnología del mercado negro (como un decodificador sináptico) o rescatar a un científico desertor que vive escondido en las ruinas.
+
+FASE 3: EL ASCENSO A LA CÚPULA (La Infiltración)
+- Entorno: Un contraste brutal. Los personajes pasan del barro, óxido y sirimiri a los pasillos asépticos, blancos y silenciosos de la Cúpula Superior de Orekak-Corp.
+- Conflicto: Superar la seguridad biométrica sin desatar alarmas. Aquí la violencia directa es suicida; deben usar disfraces, tarjetas de acceso clonadas, conductos de ventilación o aprovechar el conocimiento del Burócrata Arrepentido. El peligro no son las balas, es parecer fuera de lugar.
+- Objetivo de Fase: Acceder al nivel restringido subterráneo o a la cima de la torre, donde se oculta el mainframe del proyecto biológico.
+
+FASE 4: EL EVENTO DE RESONANCIA AZUL (El Clímax)
+- Entorno: Una colosal sala de servidores. Los "Ganadores de la Lotería" están sumergidos en tanques de líquido amniótico sintético, con sus cerebros conectados por gruesos cables de fibra óptica al nodo central (ADUR-OS v1.0).
+- El Giro: En el momento en que los PJs irrumpen, el sistema falla catastróficamente. Las mentes de los adultos, fuertemente individualistas, rechazan la fusión colectiva. Se desata un "Evento de Resonancia": una tormenta psíquica masiva.
+- Conflicto Final: Los personajes sufren oleadas de daño de estrés (Zama) inducido por el terror colectivo de los cerebros conectados. Tienen un tiempo límite para destruir los servidores, desconectar físicamente a las víctimas o aislar el núcleo antes de enloquecer o de que lleguen las fuerzas tácticas pesadas.
+- Epílogo: El sabotaje destruye el proyecto. La corporación entierra la verdad. En las sombras de su junta directiva, Orekak-Corp se da cuenta de que las mentes adultas no sirven para el ADUR-OS. Necesitan mentes maleables. Mentes jóvenes. La semilla para los eventos y secuestros infantiles de 2102 acaba de ser plantada.
+
+CAPÍTULO 8: HERRAMIENTAS DEL DIRECTOR (TABLAS Y NPCS)
+Generadores rápidos para darle vida a las calles de "La Margen".
+
+TABLA DE BOTÍN CALLEJERO (Tira 1d10 al registrar a matones o rebuscar en callejones)
+1. Tarjeta de transporte mag-lev caducada (Barik corporativa) con saldo negativo.
+2. Paquete a medias de tabaco sintético "Ibaizabal"; huele a ozono y brea.
+3. Casete pirata con grabaciones de sesiones de terapia robadas (se usa como droga auditiva).
+4. Inyector neumático fisurado: aún contiene una dosis de bloqueador de dolor (te da +1 a resistir Zama pero te deja [Aturdido]).
+5. Paraguas de polímero transparente de mala calidad, parcialmente derretido por la lluvia ácida.
+6. Folleto arrugado del "Programa Azul" con anotaciones paranoicas y esquizofrénicas en los márgenes.
+7. Un "Katxi" plegable de plástico con restos de kalimotxo sintético fosforescente.
+8. Gafas de sol de montura gruesa estilo 90s con un HUD rudimentario fundido (solo funciona la hora).
+9. Credstick (Billetera digital) con suficientes créditos para dos menús de fideos de soja y rata de la ría.
+10. Chapa oxidada del Athletic Club de 1984, usada como amuleto de la suerte por los Descartados.
+
+LISTA RÁPIDA DE NPCs DE LA MARGEN
+- Kepa "Txatar" Mendiguren (El Chatarrero): Le falta un ojo, que ha sido reemplazado por una cámara de seguridad de tráfico injertada a lo bruto. Compra y vende piezas robadas de Orekak.
+- Maite "Sorgin" Arrieta (La Médica Clandestina): Ex-enfermera de Gurutzeta. Opera en un sótano sin ventilación. Siempre está fumando y huele a desinfectante industrial.
+- Gorka Echevarría (El Contacto Burocrático): Empleado de bajo nivel ahogado en deudas de oxígeno. Vende contraseñas temporales a cambio de ansiolíticos o créditos.
+- Iratxe "La Muda" (La Mensajera): Se desplaza rapidísimo en patines magnéticos desgastados. Se quemó las cuerdas vocales con ácido y habla a través de un sintetizador de voz barato que suena metálico.
+- Jon Ander "Zulo" (El Tabernero): Dueño del bar donde arranca la historia. Conoce a todo el mundo, nunca hace preguntas y esconde un rifle de clavos bajo la barra.
+- Aitor (El Descartado): Un antiguo oficinista brillante cuyo cerebro fue frito por el Proyecto IZAR. Deambula por las vías del tren murmurando los códigos postales de la Cúpula Superior sin parar.
+
+CAPÍTULO 9: RESOLUCIÓN DE CONFLICTOS Y EJEMPLOS DE JUEGO
+En Zina 2084, el combate y los desafíos no utilizan cuadrículas tácticas ni iniciativa por turnos rígidos. Todo fluye como una conversación mediante la mecánica principal de PbtA: la ficción dicta el tipo de tirada, y el resultado de los dados (2d6 + Emoción) hace avanzar la historia.
+
+La Regla Básica:
+- 10+: Éxito total. Logras tu objetivo sin consecuencias graves.
+- 7-9: Éxito con coste. Consigues lo que querías, pero sufres represalias (daño, pérdida de equipo, aumento de Zama, o una mala posición).
+- 6-: Fallo. El Director toma el control y empeora drásticamente la situación.
+
+EJEMPLO 1: COMBATE CALLEJERO (Violencia Sutil)
+Situación: "El Sabueso" persigue a un Auditor por un callejón y este se da la vuelta, sacando un inyector neumático de amnésico.
+Ficción: El jugador describe cómo coge un cubo de basura metálico para aplastarlo contra el Auditor de forma brutal.
+Mecánica: El Director le pide que tire +Enfadado (por la violencia visceral).
+Resolución:
+- Si saca un 10+: El Sabueso golpea al Auditor con el cubo, dejándolo inconsciente en el suelo y el inyector cae intacto.
+- Si saca un 8 (Éxito con coste): El Sabueso aplasta al Auditor, pero en el forcejeo, este logra rozarle con el inyector. El Auditor cae derribado, pero el Sabueso sufre 1 punto de Zama (estrés neurotóxico) y adquiere la condición temporal de [Aturdido].
+- Si saca un 4 (Fallo): El Auditor esquiva el golpe ágilmente, inyecta la toxina directamente en el cuello del Sabueso (2 puntos de Zama) y pide refuerzos por radio.
+
+EJEMPLO 2: INFILTRACIÓN Y ENGAÑO SOCIAL
+Situación: "El Burócrata Arrepentido" necesita acceder a la terminal de la recepción de una clínica de Orekak-Corp.
+Ficción: El jugador se ajusta la corbata y empieza a quejarse con la recepcionista sobre la "Directiva 4B de actualización de servidores", usando lenguaje corporativo aburrido.
+Mecánica: El jugador activa su movimiento "Sello de Goma" y tira +Pacífico.
+Resolución:
+- Si saca un 10+: La recepcionista resopla, le da su tarjeta de acceso nivel 2 y se va a la sala de descanso. Tienen vía libre.
+- Si saca un 7 (Éxito con coste): La recepcionista se lo traga, pero le exige rellenar una montaña de formularios de autorización. Los jugadores consiguen el acceso, pero pierden un tiempo valioso, lo que permite que una patrulla de "Limpieza Sanitaria" se acerque al edificio.
+
+EJEMPLO 3: PRESIÓN TECNOLÓGICA (Hackeo bajo estrés)
+Situación: "La Biohacker" está robando datos en el servidor de la Cúpula. La alarma silenciosa acaba de saltar.
+Ficción: Intenta clonar los datos a toda velocidad mientras el sudor le cae por la frente.
+Mecánica: Activa "Cacharrería Punk" y tira +Culpable (ya que el movimiento se basa en la adrenalina de violar las reglas corporativas).
+Resolución (Saca un 5 - Fallo):
+El Director narra las consecuencias: "La pantalla se tiñe de rojo sangre. El firewall no solo te expulsa, sino que activa un pulso electromagnético en la terminal. Tu disco duro portátil se fríe (pierdes el equipo) y las puertas blindadas del servidor se cierran herméticamente. Estáis atrapados".
+
+EJEMPLO 4: GESTIÓN DE ESTRÉS EXTREMO Y APOYO VECINAL (Auzolan)
+Situación: El grupo entra en el "Evento de Resonancia" (Fase 4). Los cerebros conectados a los tanques gritan al unísono.
+Ficción: El Director impone que todos tiren +Asustado para resistir la ola psíquica. "El Celador" falla estrepitosamente y alcanza 6 puntos de Zama (el límite del Colapso). Está a punto de entrar en shock catatónico.
+Mecánica: "El Familiar" decide intervenir. Gasta 1 punto de Auzolan (la reserva compartida del grupo) y activa su movimiento "Ancla Emocional".
+Resolución: El jugador del Familiar narra: "Agarro al Celador por las solapas de la bata médica, le planto cara y le digo: '¡No dejes que te hundan! ¡Acuérdate de lo que le hicieron a mi hermana, no vamos a dejar que pase otra vez!'". Mecánicamente, el impacto emocional saca al Celador del Colapso y su Zama se reduce inmediatamente en 2 puntos, permitiéndole seguir luchando.
